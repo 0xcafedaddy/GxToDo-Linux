@@ -1,5 +1,5 @@
 {
-  "name": "Youdao-Note-Electron",
+  "name": "GxToDo-Linux",
   "version": "1.0.0",
   "description": "An Electron application for Youdao-Note",
   "main": "main.js",
@@ -17,20 +17,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jamasBian/youdao-note-electron.git"
+    "url": "git+https://github.com/jamasBian/GxToDo-Linux.git"
   },
   "keywords": [
-    "Youdao",
-    "Note",
-    "有道云笔记",
-    "Web"
+    "高效ToDo",
+    "GxToDo"
   ],
   "author": "Zhiqiang Bian",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/jamasBian/youdao-note-electron/issues"
-  },
-  "homepage": "https://github.com/jamasBian/youdao-note-electron",
+  "homepage": "https://github.com/jamasBian/GxToDo-Linux",
   "dependencies": {
     "electron": "1.4.15",
     "electron-packager": "^8.5.1"

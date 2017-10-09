@@ -20,9 +20,9 @@ ARCH=$2
 echo "Start packaging for $PLATFORM $ARCH."
 
 if [ $PLATFORM = "linux" ]; then
-    APP_NAME="Youdao-Note-Electron"
+    APP_NAME="GxToDo-Linux"
 else
-    APP_NAME="Youdao-Note-Electron"
+    APP_NAME="GxToDo-Linux"
 fi
 
 if [ $PLATFORM = "darwin" ]; then
